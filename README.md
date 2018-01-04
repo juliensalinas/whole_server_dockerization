@@ -12,4 +12,4 @@ The server to be Dockerized is an Ubuntu 16.04 server dedicated to web scraping 
 * RabbitMQ
 * Scrapy/Scrapyd
 
-More information about why I had to do that and the strategy behind it [in the blog post](https://juliensalinas.com/en/dockerize-whole-linux-server/).
+More information about why I had to do that and the strategy behind it [in this blog post](https://juliensalinas.com/en/dockerize-whole-linux-server/).
